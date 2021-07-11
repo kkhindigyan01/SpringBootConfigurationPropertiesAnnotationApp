@@ -1,0 +1,42 @@
+{
+  "groups": [
+    {
+      "name": "myapp",
+      "type": "com.kkhindigyan.app.model.KKJavaTutorials",
+      "sourceType": "com.kkhindigyan.app.model.KKJavaTutorials"
+    }
+  ],
+  "properties": [
+    {
+      "name": "myapp.channel-id",
+      "type": "java.lang.Integer",
+      "sourceType": "com.kkhindigyan.app.model.KKJavaTutorials"
+    },
+    {
+      "name": "myapp.channel-name",
+      "type": "java.lang.String",
+      "sourceType": "com.kkhindigyan.app.model.KKJavaTutorials"
+    },
+    {
+      "name": "myapp.company",
+      "type": "com.kkhindigyan.app.model.Company",
+      "sourceType": "com.kkhindigyan.app.model.KKJavaTutorials"
+    },
+    {
+      "name": "myapp.stock-prices",
+      "type": "java.util.Map<java.lang.String,java.lang.String>",
+      "sourceType": "com.kkhindigyan.app.model.KKJavaTutorials"
+    },
+    {
+      "name": "myapp.topics",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.kkhindigyan.app.model.KKJavaTutorials"
+    },
+    {
+      "name": "myapp.website-url",
+      "type": "java.lang.String",
+      "sourceType": "com.kkhindigyan.app.model.KKJavaTutorials"
+    }
+  ],
+  "hints": []
+}
